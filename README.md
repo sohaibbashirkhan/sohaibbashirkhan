@@ -12,7 +12,7 @@ I specialize in building **custom WordPress, PHP, React, and .NET**-based system
 🌱 **Currently Working On:** Innovative projects at **@DataWarlord**, pushing the limits of modern web technology.  
 💬 **Ask Me About:** Full-Stack Development, WordPress Customization, SEO Optimization, or AI-Assisted Coding.  
 🎯 **Mission:** To conquer the digital world one byte at a time by blending creativity with code.  
-📫 **Reach Me On:** [LinkedIn](https://www.linkedin.com/in/sohaibbashirkhan) | [Instagram](https://www.instagram.com/_sohaibalikhan) | [Facebook](https://www.facebook.com/profile.php?id=61553550415042)
+📫 **Reach Me On:** [LinkedIn](https://www.linkedin.com/in/sohaibbashirkhan) | [Instagram](https://www.instagram.com/datawarlord_official/) | [Facebook](https://www.facebook.com/profile.php?id=61553550415042)
 
 ---
 
@@ -47,7 +47,7 @@ SEO Optimization • Performance Tuning • AI-Assisted Development (ChatGPT, Gi
   <a href="https://www.facebook.com/profile.php?id=61553550415042" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="35" width="45" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/_sohaibalikhan" target="_blank">
+  <a href="https://www.instagram.com/datawarlord_official" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="35" width="45" alt="Instagram"/>
   </a>
 </p>
